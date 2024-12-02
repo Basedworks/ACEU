@@ -1,0 +1,6 @@
+name: ACEU
+version: 1.0.0
+main: com.github.basedworks.aceu.ACEUPlugin
+api-version: 1.19
+description: AECI (Another Configuration Example Utility) is a plugin that manages (multiple) configuration files.
+author: BasedWorks Team
